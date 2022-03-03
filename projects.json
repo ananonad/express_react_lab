@@ -1,14 +1,14 @@
 [
     {
-      "name": "project1",
+      "name": "Wayfarer",
       "live": "https://app.herokuapp.com/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "git": "https://git.generalassemb.ly/oclarkem23/wayfarer",
+      "image": "https://imgur.com/a/rHPdppH"
     },
     {
-      "name": "project2",
+      "name": "AlimenT",
       "live": "https://app.netlify.app/whatever",
-      "git": "http://www.github.com/username/reponame",
+      "git": "https://git.generalassemb.ly/floreti/Project2",
       "image": "http://www.imgur.com/pictureofproject.png"
     }
   ]
